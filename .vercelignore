@@ -1,0 +1,8 @@
+# Exclude server.js from Vercel deployment (pure static deployment)
+server.js
+
+# Exclude git and development files
+.git
+.gitignore
+*.log
+.DS_Store
